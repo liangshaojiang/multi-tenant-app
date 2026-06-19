@@ -1,0 +1,6 @@
+@Jvs.OrgService_HostAddress = http://localhost:5068
+
+GET {{Jvs.OrgService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Jvs.AuthService/Jvs.AuthService.csproj" />
+  <Project Path="Jvs.Gateway/Jvs.Gateway.csproj" />
+  <Project Path="Jvs.OrgService/Jvs.OrgService.csproj" />
+  <Project Path="Jvs.Shared/Jvs.Shared.csproj" />
+</Solution>

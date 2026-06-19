@@ -1,0 +1,28 @@
+# Build outputs
+**/bin/
+**/obj/
+**/out/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Node
+node_modules/
+dist/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keys
+*.pem
+*.key
+
+# appsettings with secrets (keep template only)
+**/appsettings.Development.json
