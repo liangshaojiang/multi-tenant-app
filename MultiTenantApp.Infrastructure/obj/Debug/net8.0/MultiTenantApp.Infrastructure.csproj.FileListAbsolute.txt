@@ -1,0 +1,17 @@
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Infrastructure\obj\Debug\net8.0\MultiTenantApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Infrastructure\obj\Debug\net8.0\MultiTenantApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Infrastructure\obj\Debug\net8.0\MultiTenantApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Infrastructure\obj\Debug\net8.0\MultiTenantApp.Infrastructure.AssemblyInfo.cs
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Infrastructure\obj\Debug\net8.0\MultiTenantApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Infrastructure\bin\Debug\net8.0\MultiTenantApp.Infrastructure.deps.json
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Infrastructure\bin\Debug\net8.0\MultiTenantApp.Infrastructure.runtimeconfig.json
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Infrastructure\bin\Debug\net8.0\MultiTenantApp.Infrastructure.dll
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Infrastructure\bin\Debug\net8.0\MultiTenantApp.Infrastructure.pdb
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Infrastructure\bin\Debug\net8.0\MultiTenantApp.Core.dll
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Infrastructure\bin\Debug\net8.0\MultiTenantApp.Core.pdb
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Infrastructure\obj\Debug\net8.0\MultiTen.50D3A3F8.Up2Date
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Infrastructure\obj\Debug\net8.0\MultiTenantApp.Infrastructure.dll
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Infrastructure\obj\Debug\net8.0\refint\MultiTenantApp.Infrastructure.dll
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Infrastructure\obj\Debug\net8.0\MultiTenantApp.Infrastructure.pdb
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Infrastructure\obj\Debug\net8.0\MultiTenantApp.Infrastructure.genruntimeconfig.cache
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Infrastructure\obj\Debug\net8.0\ref\MultiTenantApp.Infrastructure.dll

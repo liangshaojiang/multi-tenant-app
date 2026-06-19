@@ -1,0 +1,11 @@
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Core\bin\Debug\net8.0\MultiTenantApp.Core.deps.json
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Core\bin\Debug\net8.0\MultiTenantApp.Core.dll
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Core\bin\Debug\net8.0\MultiTenantApp.Core.pdb
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Core\obj\Debug\net8.0\MultiTenantApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Core\obj\Debug\net8.0\MultiTenantApp.Core.AssemblyInfoInputs.cache
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Core\obj\Debug\net8.0\MultiTenantApp.Core.AssemblyInfo.cs
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Core\obj\Debug\net8.0\MultiTenantApp.Core.csproj.CoreCompileInputs.cache
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Core\obj\Debug\net8.0\MultiTenantApp.Core.dll
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Core\obj\Debug\net8.0\refint\MultiTenantApp.Core.dll
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Core\obj\Debug\net8.0\MultiTenantApp.Core.pdb
+C:\Disk\Project\Java\jvs_copy\MultiTenantApp.Core\obj\Debug\net8.0\ref\MultiTenantApp.Core.dll

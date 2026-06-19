@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MultiTenantApp.Core/MultiTenantApp.Core.csproj" />
+  <Project Path="MultiTenantApp.Infrastructure/MultiTenantApp.Infrastructure.csproj" />
+  <Project Path="MultiTenantApp.WebApi/MultiTenantApp.WebApi.csproj" />
+</Solution>
+
